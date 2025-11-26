@@ -1,0 +1,17 @@
+/package.json
+/package-lock.json
+/V1
+/v2
+/settings.json
+/.vscode
+/Datasets
+/Docs
+/landmarks
+/landmarks_augmented
+/landmarks_augmented_fixed
+/logs
+/requirements.txt
+/processed_img
+/Frontend
+/snapshots
+/synthetic_dataset
